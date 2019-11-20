@@ -3,11 +3,11 @@
      height: 100px;
  }
 
- footer{
+ /* footer{
     background-color: gray;
     height: 100px;
 
- }
+ } */
  nav ul li{
     list-style: none;
     display: inline-block;
@@ -45,3 +45,16 @@
 margin-right: 15px;
 
   }
+
+main div section p img{
+    float: left;
+    margin-left: 150px;
+    margin-right: 25px;
+
+}
+/* main div section p img p div{
+    float: right;
+} */
+
+
+
