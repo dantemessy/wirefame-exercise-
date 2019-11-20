@@ -51,8 +51,26 @@ main div section p img{
  footer{
     background-color: gray;
     height: 100px;
+    margin-top: 50px;
 
  }
+
+ main div section p button{
+     background-color: black;
+     padding: 15px;
+     color: blanchedalmond;
+ } 
+
+ /* main div section p div{
+    height:300px;
+    width:410px;
+    overflow:auto;
+    background-color:yellowgreen;
+    color:white;
+    scrollbar-base-color:gold;
+    font-family:sans-serif;
+    padding:10px
+ } */
 
 /* main div section p img p div{
     float: right;
