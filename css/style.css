@@ -36,15 +36,15 @@
   }
 
   #a{
-    margin-left: 15px;
-margin-right: 15px;
+    margin-left: 26px;
+margin-right: 26px;
 
   }
 
 main div section p img{
     float: left;
-    margin-left: 150px;
-    margin-right: 25px;
+    margin-left: 135px;
+    margin-right: 51px;
 
 }
 
@@ -56,25 +56,13 @@ main div section p img{
  }
 
  main div section p button{
+   margin-right: 440px;
      background-color: black;
      padding: 15px;
      color: blanchedalmond;
  } 
 
- /* main div section p div{
-    height:300px;
-    width:410px;
-    overflow:auto;
-    background-color:yellowgreen;
-    color:white;
-    scrollbar-base-color:gold;
-    font-family:sans-serif;
-    padding:10px
- } */
-
-/* main div section p img p div{
-    float: right;
-} */
+ /* tessssst */
 
 
 
